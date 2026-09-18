@@ -1,10 +1,360 @@
 {
   "port": "tarragona",
   "year": 2028,
-  "wave": "wave-1d",
+  "wave": "wave-2",
   "filterDecision": "HOLD",
   "filterReason": "validated 0 < MIN_PUBLISH_ROWS 15 — HOLD; restricted rows NOT reintroduced",
+  "total": 38,
   "validatedCount": 0,
-  "tier2KeysApplied": [],
-  "total": 38
+  "path": "HOLD",
+  "calls": [
+    {
+      "date": "2028-01-08",
+      "ship": "Celestyal Discovery",
+      "cruiseLine": "Celestyal Cruises",
+      "arrival": "09:30",
+      "departure": "",
+      "timeInPort": null,
+      "callType": "Port of call",
+      "notes": "arrival only"
+    },
+    {
+      "date": "2028-01-22",
+      "ship": "Celestyal Discovery",
+      "cruiseLine": "Celestyal Cruises",
+      "arrival": "09:30",
+      "departure": "",
+      "timeInPort": null,
+      "callType": "Port of call",
+      "notes": "arrival only"
+    },
+    {
+      "date": "2028-02-05",
+      "ship": "Celestyal Discovery",
+      "cruiseLine": "Celestyal Cruises",
+      "arrival": "09:30",
+      "departure": "",
+      "timeInPort": null,
+      "callType": "Port of call",
+      "notes": "arrival only"
+    },
+    {
+      "date": "2028-02-19",
+      "ship": "Celestyal Discovery",
+      "cruiseLine": "Celestyal Cruises",
+      "arrival": "09:30",
+      "departure": "",
+      "timeInPort": null,
+      "callType": "Port of call",
+      "notes": "arrival only"
+    },
+    {
+      "date": "2028-04-01",
+      "ship": "MSC Fantasia",
+      "cruiseLine": "MSC Cruises",
+      "arrival": "08:00",
+      "departure": "18:00",
+      "timeInPort": "10h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-04-08",
+      "ship": "Azamara Journey",
+      "cruiseLine": "Azamara Cruises",
+      "arrival": "06:00",
+      "departure": "",
+      "timeInPort": null,
+      "callType": "Port of call",
+      "notes": "arrival only"
+    },
+    {
+      "date": "2028-04-14",
+      "ship": "Seabourn Ovation",
+      "cruiseLine": "Seabourn",
+      "arrival": "12:00",
+      "departure": "21:00",
+      "timeInPort": "9h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-05-05",
+      "ship": "MSC Magnifica",
+      "cruiseLine": "MSC Cruises",
+      "arrival": "08:00",
+      "departure": "18:00",
+      "timeInPort": "10h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-05-12",
+      "ship": "MSC Magnifica",
+      "cruiseLine": "MSC Cruises",
+      "arrival": "09:00",
+      "departure": "18:00",
+      "timeInPort": "9h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-05-16",
+      "ship": "SeaDream II",
+      "cruiseLine": "SeaDream Yacht Club",
+      "arrival": "",
+      "departure": "",
+      "timeInPort": null,
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-05-19",
+      "ship": "MSC Magnifica",
+      "cruiseLine": "MSC Cruises",
+      "arrival": "09:00",
+      "departure": "18:00",
+      "timeInPort": "9h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-05-26",
+      "ship": "MSC Magnifica",
+      "cruiseLine": "MSC Cruises",
+      "arrival": "09:00",
+      "departure": "18:00",
+      "timeInPort": "9h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-06-02",
+      "ship": "MSC Magnifica",
+      "cruiseLine": "MSC Cruises",
+      "arrival": "09:00",
+      "departure": "18:00",
+      "timeInPort": "9h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-06-09",
+      "ship": "MSC Magnifica",
+      "cruiseLine": "MSC Cruises",
+      "arrival": "09:00",
+      "departure": "18:00",
+      "timeInPort": "9h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-06-16",
+      "ship": "MSC Magnifica",
+      "cruiseLine": "MSC Cruises",
+      "arrival": "09:00",
+      "departure": "18:00",
+      "timeInPort": "9h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-06-23",
+      "ship": "MSC Magnifica",
+      "cruiseLine": "MSC Cruises",
+      "arrival": "09:00",
+      "departure": "18:00",
+      "timeInPort": "9h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-06-30",
+      "ship": "MSC Magnifica",
+      "cruiseLine": "MSC Cruises",
+      "arrival": "09:00",
+      "departure": "18:00",
+      "timeInPort": "9h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-07-07",
+      "ship": "MSC Magnifica",
+      "cruiseLine": "MSC Cruises",
+      "arrival": "09:00",
+      "departure": "18:00",
+      "timeInPort": "9h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-07-14",
+      "ship": "MSC Magnifica",
+      "cruiseLine": "MSC Cruises",
+      "arrival": "09:00",
+      "departure": "18:00",
+      "timeInPort": "9h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-07-16",
+      "ship": "Queen Elizabeth",
+      "cruiseLine": "Cunard Line",
+      "arrival": "",
+      "departure": "",
+      "timeInPort": null,
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-07-21",
+      "ship": "MSC Magnifica",
+      "cruiseLine": "MSC Cruises",
+      "arrival": "09:00",
+      "departure": "18:00",
+      "timeInPort": "9h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-07-28",
+      "ship": "MSC Magnifica",
+      "cruiseLine": "MSC Cruises",
+      "arrival": "09:00",
+      "departure": "18:00",
+      "timeInPort": "9h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-07-30",
+      "ship": "MSC Meraviglia",
+      "cruiseLine": "MSC Cruises",
+      "arrival": "09:00",
+      "departure": "19:00",
+      "timeInPort": "10h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-08-04",
+      "ship": "MSC Magnifica",
+      "cruiseLine": "MSC Cruises",
+      "arrival": "09:00",
+      "departure": "18:00",
+      "timeInPort": "9h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-08-11",
+      "ship": "MSC Magnifica",
+      "cruiseLine": "MSC Cruises",
+      "arrival": "09:00",
+      "departure": "18:00",
+      "timeInPort": "9h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-08-18",
+      "ship": "MSC Magnifica",
+      "cruiseLine": "MSC Cruises",
+      "arrival": "09:00",
+      "departure": "18:00",
+      "timeInPort": "9h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-08-25",
+      "ship": "MSC Magnifica",
+      "cruiseLine": "MSC Cruises",
+      "arrival": "09:00",
+      "departure": "18:00",
+      "timeInPort": "9h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-09-01",
+      "ship": "MSC Magnifica",
+      "cruiseLine": "MSC Cruises",
+      "arrival": "09:00",
+      "departure": "18:00",
+      "timeInPort": "9h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-09-06",
+      "ship": "Queen Victoria",
+      "cruiseLine": "Cunard Line",
+      "arrival": "",
+      "departure": "",
+      "timeInPort": null,
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-09-08",
+      "ship": "MSC Magnifica",
+      "cruiseLine": "MSC Cruises",
+      "arrival": "09:00",
+      "departure": "18:00",
+      "timeInPort": "9h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-09-15",
+      "ship": "MSC Magnifica",
+      "cruiseLine": "MSC Cruises",
+      "arrival": "09:00",
+      "departure": "18:00",
+      "timeInPort": "9h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-09-22",
+      "ship": "MSC Magnifica",
+      "cruiseLine": "MSC Cruises",
+      "arrival": "09:00",
+      "departure": "18:00",
+      "timeInPort": "9h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-09-23",
+      "ship": "Azamara Quest",
+      "cruiseLine": "Azamara Cruises",
+      "arrival": "06:00",
+      "departure": "",
+      "timeInPort": null,
+      "callType": "Port of call",
+      "notes": "arrival only"
+    },
+    {
+      "date": "2028-09-29",
+      "ship": "MSC Magnifica",
+      "cruiseLine": "MSC Cruises",
+      "arrival": "09:00",
+      "departure": "18:00",
+      "timeInPort": "9h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-10-06",
+      "ship": "MSC Magnifica",
+      "cruiseLine": "MSC Cruises",
+      "arrival": "09:00",
+      "departure": "18:00",
+      "timeInPort": "9h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-10-13",
+      "ship": "MSC Magnifica",
+      "cruiseLine": "MSC Cruises",
+      "arrival": "09:00",
+      "departure": "18:00",
+      "timeInPort": "9h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-10-20",
+      "ship": "MSC Magnifica",
+      "cruiseLine": "MSC Cruises",
+      "arrival": "09:00",
+      "departure": "18:00",
+      "timeInPort": "9h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-10-21",
+      "ship": "SeaDream II",
+      "cruiseLine": "SeaDream Yacht Club",
+      "arrival": "",
+      "departure": "",
+      "timeInPort": null,
+      "callType": "Port of call"
+    }
+  ]
 }
