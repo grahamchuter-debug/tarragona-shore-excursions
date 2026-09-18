@@ -1,0 +1,14 @@
+{
+  // WORKERS STATIC ASSETS — Tarragona Shore Excursions
+  // Custom Domain routes intentionally omitted — user will attach
+  // tarragonashoreexcursions.com in the Cloudflare dashboard.
+  "name": "tarragona-shore-excursions",
+  "compatibility_date": "2026-07-17",
+  "workers_dev": true,
+  "preview_urls": true,
+  "assets": {
+    "directory": "./out",
+    "html_handling": "force-trailing-slash",
+    "not_found_handling": "404-page"
+  }
+}

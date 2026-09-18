@@ -1,0 +1,28 @@
+{
+  "destination": "tarragona",
+  "note": "Temporary Wikimedia Commons stand-ins for localhost development only. Replace with licensed production assets before launch.",
+  "images": [
+    { "file": "hero.jpg", "source": "Wikimedia Commons", "note": "Amphitheatre of Tarragona — temporary localhost stand-in" },
+    { "file": "hero-home.jpg", "source": "Alias of hero.jpg", "note": "Temporary localhost stand-in" },
+    { "file": "og-default.jpg", "source": "Alias of hero.jpg", "note": "Temporary localhost stand-in" },
+    { "file": "amphitheatre.jpg", "source": "Wikimedia Commons", "note": "Temporary localhost stand-in" },
+    { "file": "cathedral.jpg", "source": "Wikimedia Commons", "note": "Temporary localhost stand-in" },
+    { "file": "balcony.jpg", "source": "Wikimedia Commons", "note": "Temporary localhost stand-in" },
+    { "file": "walking.jpg", "source": "Wikimedia Commons", "note": "Temporary localhost stand-in" },
+    { "file": "rambla.jpg", "source": "Wikimedia Commons", "note": "Temporary localhost stand-in" },
+    { "file": "circus.jpg", "source": "Wikimedia Commons", "note": "Temporary localhost stand-in" },
+    { "file": "forum.jpg", "source": "Wikimedia Commons", "note": "Temporary localhost stand-in" },
+    { "file": "old-town.jpg", "source": "Wikimedia Commons", "note": "Temporary localhost stand-in" },
+    { "file": "food-market.jpg", "source": "Wikimedia Commons", "note": "Temporary localhost stand-in" },
+    { "file": "cruise-port.jpg", "source": "Wikimedia Commons", "note": "Temporary localhost stand-in" },
+    { "file": "historic.jpg", "source": "Alias / Wikimedia", "note": "Temporary localhost stand-in" },
+    { "file": "coastal.jpg", "source": "Wikimedia Commons", "note": "Temporary localhost stand-in" },
+    { "file": "food-and-wine.jpg", "source": "Wikimedia Commons", "note": "Temporary localhost stand-in" },
+    { "file": "compare.jpg", "source": "Wikimedia Commons", "note": "Temporary localhost stand-in" },
+    { "file": "private.jpg", "source": "Alias", "note": "Temporary localhost stand-in" },
+    { "file": "photography.jpg", "source": "Alias", "note": "Temporary localhost stand-in" },
+    { "file": "family.jpg", "source": "Alias", "note": "Temporary localhost stand-in" },
+    { "file": "nature.jpg", "source": "Alias", "note": "Temporary localhost stand-in" },
+    { "file": "highlights.jpg", "source": "Alias of amphitheatre.jpg", "note": "Temporary localhost stand-in" }
+  ]
+}

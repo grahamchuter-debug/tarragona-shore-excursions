@@ -1,0 +1,55 @@
+{
+  "generatedAt": "2026-09-18T07:43:29.221Z",
+  "wave": "wave-1d",
+  "port": "tarragona",
+  "destSlug": "tarragona",
+  "displayName": "Tarragona",
+  "counts": {
+    "2026": 44,
+    "2027": 51,
+    "2028_discovery": 38,
+    "2028_published": 0,
+    "public_total": 95,
+    "h1_2026": 0
+  },
+  "partial2026": true,
+  "filter2028": {
+    "decision": "HOLD",
+    "reason": "validated 0 < MIN_PUBLISH_ROWS 15 — HOLD; restricted rows NOT reintroduced",
+    "validatedCount": 0,
+    "tier2PrincessKeys": 0
+  },
+  "timeCompleteness": {
+    "2026": {
+      "total": 44,
+      "arrival": 33,
+      "departure": 26,
+      "both": 26,
+      "neither": 11,
+      "pctBoth": 59.1
+    },
+    "2027": {
+      "total": 51,
+      "arrival": 48,
+      "departure": 37,
+      "both": 37,
+      "neither": 3,
+      "pctBoth": 72.5
+    },
+    "2028": {
+      "total": 0,
+      "arrival": 0,
+      "departure": 0,
+      "both": 0,
+      "neither": 0,
+      "pctBoth": 0
+    }
+  },
+  "contaminationPurged": [
+    "src/data/imported-schedules/savona.json"
+  ],
+  "wireSchedulesTs": {
+    "wired": true,
+    "reason": "import wired"
+  }
+}
